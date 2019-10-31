@@ -9,7 +9,7 @@
   "scripts": {
     "karma": "karma start karma.conf.js",
     "lint": "eslint \"./*-module/**/*.js\"",
-    "test": "npm run lint && npm run karma"
+    "test": "npm run karma"
   },
   "repository": {
     "type": "git",
